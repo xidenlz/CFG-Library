@@ -1,6 +1,5 @@
 #pragma once
 #include "Json.h"
-#include "Globals.h"
 #include <string>
 #include <fstream>
 #include <filesystem>
