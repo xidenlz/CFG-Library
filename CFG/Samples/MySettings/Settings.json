@@ -1,0 +1,11 @@
+{
+    "CFG": {
+        "C_Aimbot": false,
+        "C_Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "C_Smooth": 15.0
+    }
+}
