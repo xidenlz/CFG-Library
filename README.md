@@ -60,7 +60,7 @@ The library has three major functions:
 
 | **Data type** | **Export** | **Import** |
 | :---         | :---       | :---  |
-| bool   | Export    | Import    |
+| bool   | Output    | Input    |
 | int   | Export    | Import    |
 | float   | Export    | Import    |
 | string   | Export    | Import    |
