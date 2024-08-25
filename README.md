@@ -1,8 +1,5 @@
 # Config System 
-A simple and reliable CFG system for your cheat, The code is straightforward just include json.h and CONFIG.h
-
-
-
+Straightforward settings system that can be integrated into various types of applications, whether you're using ImGui, a console program, or any other application that requires user settings management, It utilizes the nlohmann::json library for storage and provides features for exporting and importing settings.
 ### Briefing
 **The system have 3 major functions**
 
