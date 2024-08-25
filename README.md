@@ -11,17 +11,6 @@
 [![Quilty - Built with Highly Optimized C++](https://img.shields.io/badge/Quilty-Built_with_Highly_Optimized_C%2B%2B-blue?logo=github)](https://)
 </div>
 
-<div align="center">
-     
-[![Donate - Bitcoin](https://img.shields.io/static/v1?label=Donate&message=Bitcoin&color=%23F7931A&logo=bitcoin)](https://)
-[![Donate - Monero](https://img.shields.io/static/v1?label=Donate&message=Monero&color=%23FF6600&logo=monero)](https://)
-[![Donate - USDT](https://img.shields.io/static/v1?label=Donate&message=USDT&color=%2350AF95&logo=tether)](https://)
-</div>
-
-
-## Introduction
-A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
-
 ### Table of Contents
 1. Content
      - [Introduction](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#introduction)
@@ -34,8 +23,16 @@ A straightforward settings library designed for integration into various types o
      - [Buggs](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#buggs)
      - [License](https://github.com/xidenlz/CFG-Library/blob/main/LICENSE)
      - [Samples]()
-     - [Release]()
+     - [Release](https://github.com/xidenlz/CFG-Library/releases)
      - [NuGet]()
+     - [Support My Work](https://github.com/xidenlz/CFG-Library/edit/main/README.md#support-my-work)
+  
+
+
+## Introduction
+A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
+
+
 
 
 
@@ -157,6 +154,15 @@ if (j.at("CFG").contains("C_ImColor"))
 ### Buggs
 If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
 
+### Support My Work
+As a solo developer, your support is invaluable to me. If you find my work helpful, consider making a donation. Thank you for your generosity!
+
+<div align="center">
+     
+[![Donate - Bitcoin](https://img.shields.io/static/v1?label=Donate&message=Bitcoin&color=%23F7931A&logo=bitcoin)](https://)
+[![Donate - Monero](https://img.shields.io/static/v1?label=Donate&message=Monero&color=%23FF6600&logo=monero)](https://)
+[![Donate - USDT](https://img.shields.io/static/v1?label=Donate&message=USDT&color=%2350AF95&logo=tether)](https://)
+</div>
 
 ### License 
 Released under [MIT](/LICENSE) by [@xidenlz](https://github.com/xidenlz).
