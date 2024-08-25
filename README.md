@@ -71,15 +71,6 @@ The library has three major functions:
 {
     "CFG": {
         "C_Boolean": false,
-        "C_Float": 15.0,
-        "C_ImColor": [
-            255.0,
-            0.0,
-            0.0,
-            1.0
-        ],
-        "C_Int": 0,
-        "C_String": "Default"
     }
 }
 ```
