@@ -3,6 +3,12 @@
 [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 ![Issues](https://img.shields.io/github/issues/xidenlz/CFG-Library.svg)
+![Downloads](https://img.shields.io/github/downloads/xidenlz/CFG-Library/total.svg)
+![Forks](https://img.shields.io/github/forks/xidenlz/CFG-Library.svg)
+[![Release](https://img.shields.io/github/realese/xidenlz/CFG-Library.svg)]()
+![Followers](https://img.shields.io/github/followers/xidenlz.svg?style=social&label=Follow&maxAge=2592000)
+
+
 ## Introduction
 A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
 
