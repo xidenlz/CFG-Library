@@ -6,7 +6,17 @@
 [![NuGet - CFG-Library v1.00](https://img.shields.io/badge/NuGet-CFG--Library_v1.00-blue?logo=nuget)](https://)
 </div>
 
+<div align="center">
+     
 [![Quilty - Built with Highly Optimized C++](https://img.shields.io/badge/Quilty-Built_with_Highly_Optimized_C%2B%2B-blue?logo=github)](https://)
+</div>
+
+<div align="center">
+     
+[![Donate - Bitcoin](https://img.shields.io/static/v1?label=Donate&message=Bitcoin&color=%23F7931A&logo=bitcoin)](https://)
+[![Donate - Monero](https://img.shields.io/static/v1?label=Donate&message=Monero&color=%23FF6600&logo=monero)](https://)
+[![Donate - USDT](https://img.shields.io/static/v1?label=Donate&message=USDT&color=%2350AF95&logo=tether)](https://)
+</div>
 
 
 ## Introduction
