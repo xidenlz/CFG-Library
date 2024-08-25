@@ -1,3 +1,0 @@
-﻿  CFG_SYS.cpp
-C:\Users\BzMus\source\repos\CFG_SYS\CFG_SYS\CFG_SYS.cpp(10,15): error C2039: 'load': is not a member of 'MySettings'
-C:\Users\BzMus\source\repos\CFG_SYS\CFG_SYS\CONFIG.h(39): message : see declaration of 'MySettings'
