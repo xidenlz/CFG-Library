@@ -66,7 +66,23 @@ The library has three major functions:
 | string   | Export    | Import    |
 | ImColor   | Export    | Import    |
 
-
+- Full output
+```json
+{
+    "CFG": {
+        "C_Boolean": false,
+        "C_Float": 15.0,
+        "C_ImColor": [
+            255.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "C_Int": 0,
+        "C_String": "Default"
+    }
+}
+```
 ### Examples 
 - If you are working with a console program or a GUI program, simply include the `cfg_system` in your initialization header, then create a new instance and call it with the following function as shown:
 ```cpp
