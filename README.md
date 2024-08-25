@@ -155,7 +155,7 @@ if (j.at("CFG").contains("C_ImColor"))
 If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
 
 ### Support My Work
-As a solo developer, your support is invaluable to me. If you find my work helpful, consider making a donation. Thank you for your generosity!
+As a solo developer, your support is invaluable to me. If you find my work helpful, consider making a donation.
 
 <div align="center">
      
