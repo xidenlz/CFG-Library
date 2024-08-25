@@ -159,9 +159,9 @@ As a solo developer, your support is invaluable to me. If you find my work helpf
 
 <div align="center">
      
-[![Donate - Bitcoin](https://img.shields.io/static/v1?label=Donate&message=Bitcoin&color=%23F7931A&logo=bitcoin)](https://)
-[![Donate - Monero](https://img.shields.io/static/v1?label=Donate&message=Monero&color=%23FF6600&logo=monero)](https://)
-[![Donate - USDT](https://img.shields.io/static/v1?label=Donate&message=USDT&color=%2350AF95&logo=tether)](https://)
+[![Donate - Bitcoin](https://img.shields.io/static/v1?label=Donate&message=Bitcoin&color=%23F7931A&logo=bitcoin)]([https://](https://github.com/xidenlz/CFG-Library/blob/main/Assets/Donation/BTC.png))
+[![Donate - Monero](https://img.shields.io/static/v1?label=Donate&message=Monero&color=%23FF6600&logo=monero)](https://github.com/xidenlz/CFG-Library/blob/main/Assets/Donation/XMR.png)
+[![Donate - USDT](https://img.shields.io/static/v1?label=Donate&message=USDT&color=%2350AF95&logo=tether)](https://github.com/xidenlz/CFG-Library/blob/main/Assets/Donation/USDT_TRX.png)
 </div>
 
 ### License 
