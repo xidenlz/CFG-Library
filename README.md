@@ -42,11 +42,17 @@ The library has three major functions:
 
 
 - And the same goes for all data types. Please read the samples:
-1. Import ImColor
-2. Import bool
-3. Import float
-4. Import int
-5. import string
+
+
+
+| **Data type** | **Export** | **Import** |
+| :---         | :---       | :---  |
+| bool   | Export    | Import    |
+| int   | Export    | Import    |
+| float   | Export    | Import    |
+| string   | Export    | Import    |
+| ImColor   | Export    | Import    |
+
 
 ### Installation
 Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this header THIS IS REQIRED 
@@ -55,5 +61,5 @@ include this header into your project or install it via NuGet from here
 ### Buggs
 If you encounter any bugs or issues, please create an issue here and describe the problem.
 ### License 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/xidenlz/cfg_system/blob/main/LICENSE).
 
