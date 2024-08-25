@@ -2,7 +2,7 @@
                                  MIT License
 
                            Copyright (c) 2024 xdenlz
-
+                      https://github.com/xidenlz/cfg_system
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
       in the Software without restriction, including without limitation the rights
@@ -26,9 +26,16 @@
 */
 
 
+
+/*
+ * NOTE
+ * This won't work without nlohmann json.
+ * Please install it and then include the header.
+ */
+
+
+
 #pragma once
-#include "Json.h"
-#include "Globals.h"
 #include <string>
 #include <fstream>
 #include <filesystem>
