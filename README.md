@@ -5,7 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/xidenlz/CFG-Library.svg)
 ![Downloads](https://img.shields.io/github/downloads/xidenlz/CFG-Library/total.svg)
 ![Forks](https://img.shields.io/github/forks/xidenlz/CFG-Library.svg)
-[![Release](https://img.shields.io/github/realese/xidenlz/CFG-Library.svg)]()
+[![Release](https://img.shields.io/github/realese/xidenlz/CFG-Library.svg)](https://github.com/xidenlz/CFG-Library/releases/tag/CFG-Lib)
 ![Followers](https://img.shields.io/github/followers/xidenlz.svg?style=social&label=Follow&maxAge=2592000)
 
 
