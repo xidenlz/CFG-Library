@@ -1,9 +1,9 @@
-## Config Library
+## Introduction
 A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
 
 ### Table of Contents
 1. Content
-     - [Overview](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#overview)
+     - [Introduction](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#overview)
      - [Compatibility](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#compatibility)
      - [Usage](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#usage)
      - [Examples](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#examples)
