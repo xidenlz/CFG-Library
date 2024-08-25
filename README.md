@@ -1,6 +1,19 @@
 ## Config Library
 A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
 
+### Table of Contents
+1. Content
+     - [Overview](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#overview)
+     - Compatibility
+     - Usage
+     - Examples
+     - Installation
+     - Buggs
+     - License
+     - Release
+
+
+
 ### Overview
 The library has three major functions:
 | Function  | Description |
@@ -54,12 +67,33 @@ The library has three major functions:
 | ImColor   | Export    | Import    |
 
 
+### Examples 
+- If you are working with a console program or a GUI program, simply include the `cfg_system` in your initialization header, then create a new instance and call it with the following function as shown:
+```cpp
+// Instance
+MySettings Settings;
+
+// Your init function
+Settings.Load();
+
+
+// ImGui
+if (ImGui::Button("Save Settings"))
+{
+   // And the same goes to Delete_CFG, Load_CFG
+   Settings.Save_CFG();
+}
+```
+
 ### Installation
-Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this header THIS IS REQIRED 
-include this header into your project or install it via NuGet from here
+1. Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this header
+2. You can install the library via NuGet, download it from the releases page, or include it by adding this header
+
 
 ### Buggs
-If you encounter any bugs or issues, please create an issue here and describe the problem.
+If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
+
+
 ### License 
 This project is licensed under the [MIT License](https://github.com/xidenlz/cfg_system/blob/main/LICENSE).
 
