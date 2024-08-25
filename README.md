@@ -1,5 +1,5 @@
 # Config System 
-A simple and reliable CFG system for your cheat. The code is straightforward just include json.h and CONFIG.h
+A simple and reliable CFG system for your cheat, The code is straightforward just include json.h and CONFIG.h
 
 
 
