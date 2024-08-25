@@ -1,12 +1,7 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xidenlz/CFG-Library?tab=MIT-1-ov-file)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-[![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-![Issues](https://img.shields.io/github/issues/xidenlz/CFG-Library.svg)
-[![GitHub release](https://img.shields.io/github/release/xidenlz/CFG-Library?include_prereleases=&sort=semver&color=blue)](https://github.com/xidenlz/CFG-Library/releases/tag/CFG-Lib)
-![Forks](https://img.shields.io/github/forks/xidenlz/CFG-Library.svg)
-![Followers](https://img.shields.io/github/followers/xidenlz.svg?style=social&label=Follow&maxAge=2592000)
+[![GitHub release](https://img.shields.io/github/release/xidenlz/CFG-Library?include_prereleases=&sort=semver&color=blue)](https://github.com/xidenlz/CFG-Library/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - CFG-Library](https://img.shields.io/github/issues/xidenlz/CFG-Library)](https://github.com/xidenlz/CFG-Library/issues)
 
 
 ## Introduction
@@ -149,5 +144,5 @@ If you encounter any bugs or issues, please create an issue [here](https://githu
 
 
 ### License 
-This project is licensed under the [MIT License](https://github.com/xidenlz/cfg_system/blob/main/LICENSE).
+Released under [MIT](/LICENSE) by [@xidenlz](https://github.com/xidenlz).
 
