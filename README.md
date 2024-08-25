@@ -26,12 +26,21 @@ The library has three major functions:
 
 
 ### Compatibility 
-- [x] ImGui
+- [x] ImGui                          
 - [x] C++ Console Programs
 - [x] GLFW
 - [x] Qt 
 - [x] wxWidgets
 - [x] Win32 Gui
+
+| **Data types support** |
+| :---         |
+| bool   |
+| int   |
+| float   |
+| string   |
+| ImColor   |
+
 
 ### Usage 
 - Pass variables according to their definition type, For example, if you need to pass a variable of type bool, use it as shown below:
@@ -55,16 +64,6 @@ The library has three major functions:
 
 
 - And the same goes for all data types. Please read the samples:
-
-
-
-| **Data type** | **Export** | **Import** |
-| :---         | :---       | :---  |
-| bool   | Output    | Input    |
-| int   | Export    | Import    |
-| float   | Export    | Import    |
-| string   | Export    | Import    |
-| ImColor   | Export    | Import    |
 
 - Output
 ```json
@@ -91,6 +90,39 @@ if (ImGui::Button("Save Settings"))
    Settings.Save_CFG();
 }
 ```
+### Data types 
+- Exporting bool
+```cpp
+// bool 
+{"C_Boolean", C_Boolean},
+```
+
+- Importing bool 
+```cpp
+// bool 
+{"C_Boolean", C_Boolean},
+```
+
+- Exporting RGBA Values
+```cpp
+ {"C_ImColor", { C_ImColor.R, C_ImColor.G, C_ImColor.B, C_ImColor.A }} 
+```
+
+- Importing RGBA Values
+ ```cpp
+if (j.at("CFG").contains("C_ImColor"))
+{
+    const auto& color = j.at("CFG").at("C_ImColor");
+    if (color.is_array() && color.size() == 4)
+    {
+        C_ImColor.R = color[0].get<float>();
+        C_ImColor.G = color[1].get<float>();
+        C_ImColor.B = color[2].get<float>();
+        C_ImColor.A = color[3].get<float>();
+    }
+}
+```
+
 
 ### Installation
 1. Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this header
