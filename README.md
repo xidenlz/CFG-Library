@@ -25,7 +25,7 @@
      - [Samples]()
      - [Release](https://github.com/xidenlz/CFG-Library/releases)
      - [NuGet]()
-     - [Support My Work](https://github.com/xidenlz/CFG-Library/edit/main/README.md#support-my-work)
+     - [Support My Work](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#support-my-work)
   
 
 
