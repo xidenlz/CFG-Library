@@ -3,14 +3,18 @@ A straightforward settings library designed for integration into various types o
 
 ### Table of Contents
 1. Content
-     - [Introduction](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#overview)
-     - [Compatibility](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#compatibility)
-     - [Usage](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#usage)
-     - [Examples](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#examples)
-     - [Installation](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#installation)
-     - [Buggs](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#buggs)
-     - [License](https://github.com/xidenlz/cfg_system/tree/main?tab=readme-ov-file#license)
+     - [Introduction](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#introduction)
+     - [Overview](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#overview)
+     - [Compatibility](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#compatibility)
+     - [Usage](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#usage)
+     - [Examples](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#examples)
+     - [Data types](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#data-types)
+     - [Installation](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#installation)
+     - [Buggs](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#buggs)
+     - [License](https://github.com/xidenlz/CFG-Library/blob/main/LICENSE)
+     - [Samples]()
      - [Release]()
+     - [NuGet]()
 
 
 
