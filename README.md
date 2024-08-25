@@ -1,11 +1,11 @@
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/xidenlz/CFG-Library?tab=MIT-1-ov-file)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 ![Issues](https://img.shields.io/github/issues/xidenlz/CFG-Library.svg)
-![Downloads](https://img.shields.io/github/downloads/xidenlz/CFG-Library/total.svg)
+![Downloads](https://img.shields.io/github/realese/xidenlz/CFG-Library.svg)
 ![Forks](https://img.shields.io/github/forks/xidenlz/CFG-Library.svg)
-[![Release](https://img.shields.io/github/realese/xidenlz/CFG-Library.svg)](https://github.com/xidenlz/CFG-Library/releases/tag/CFG-Lib)
 ![Followers](https://img.shields.io/github/followers/xidenlz.svg?style=social&label=Follow&maxAge=2592000)
 
 
