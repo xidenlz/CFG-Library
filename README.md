@@ -18,11 +18,11 @@ A straightforward settings library designed for integration into various types o
 The library has three major functions:
 | Function  | Description |
 | ------------- | ------------- |
-| Load | Loads the configuration file when the program runs  |
-| Attempt_Save  |  Saves the current configuration when a button is clicked or when the function is called, This function can also be used in a thread to keep the configuration file up to date as the user makes changes  |
-| Delete_Config  | Deletes the saved configuration file when called  |
-| FromJson  | Exports the settings  |
-| ToJson  | Imports the settings   |
+| Load_CFG | Loads the configuration file when the program runs  |
+| Save_CFG  |  Saves the current configuration when a button is clicked or when the function is called, This function can also be used in a thread to keep the configuration file up to date as the user makes changes  |
+| Delete_CFG  | Deletes the saved configuration file when called  |
+| ImportSettings  | Import the settings  |
+| ExportSettings  | Exports the settings   |
 
 
 ### Compatibility 
