@@ -66,7 +66,7 @@ The library has three major functions:
 | string   | Export    | Import    |
 | ImColor   | Export    | Import    |
 
-- Full output
+- Output
 ```json
 {
     "CFG": {
