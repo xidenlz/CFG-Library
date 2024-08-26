@@ -151,6 +151,17 @@ if (j.at("CFG").contains("C_ImColor"))
 2. You can install the library via NuGet, download it from the releases page, or include it by adding this header
 
 
+### Build
+- CMake
+1. Create a new folder.
+2. Open CMake and set the source folder to `CFG-Lib\Build`.
+3. Configure the project, then generate the solution.
+
+- Visual Studio
+1. Navigate to the build folder.
+2. Open the CFG_SYS.sln file.
+That’s it!
+
 ### Buggs
 If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
 
