@@ -22,7 +22,7 @@
      - [Installation](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#installation)
      - [Buggs](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#buggs)
      - [License](https://github.com/xidenlz/CFG-Library/blob/main/LICENSE)
-     - [Samples]()
+     - [Samples](https://github.com/xidenlz/CFG-Library/blob/main/Samples/Examples/CFG.h)
      - [Release](https://github.com/xidenlz/CFG-Library/releases)
      - [NuGet]()
      - [Support My Work](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#support-my-work)
