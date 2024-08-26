@@ -20,17 +20,17 @@
      - [Examples](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#examples)
      - [Data types](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#data-types)
      - [Installation](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#installation)
+     - [Build](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#build)
      - [Buggs](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#buggs)
+     - [Support My Work](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#support-my-work)
      - [License](https://github.com/xidenlz/CFG-Library/blob/main/LICENSE)
      - [Samples](https://github.com/xidenlz/CFG-Library/blob/main/Samples/Examples/CFG.h)
      - [Release](https://github.com/xidenlz/CFG-Library/releases)
-     - [Build](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#build)
-     - [Support My Work](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#support-my-work)
   
 
 
 ## Introduction
-A straightforward settings library designed for integration into various types of applications, Whether you're working with ImGui, a console program, or any other application requiring user settings management, this library relies on the [nlohmann::json](https://github.com/nlohmann/json) library for storage and creates a folder called MySettings in `C:\Users\User\AppData\Roaming` with a `Settings.json` file
+A simple settings library for use in different types of applications. Whether you're working with ImGui, a console app, or any other program that needs to handle user settings, this library uses the nlohmann::json library for storage. It creates a folder named MySettings in `C:\Users\User\AppData\Roaming`, where it saves a file called `Settings.json`.
 
 
 
@@ -85,7 +85,7 @@ The library has three major functions:
 ```
 
 
-- And the same goes for all data types. Please read the samples:
+- And the same goes for all data types. Please read the [samples](https://github.com/xidenlz/CFG-Library/blob/main/Samples/Examples/CFG.h)
 
 - Output
 ```json
@@ -166,7 +166,7 @@ if (j.at("CFG").contains("C_ImColor"))
 If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
 
 ### Support My Work
-As a solo developer, your support is invaluable to me. If you find my work helpful, consider making a donation.
+As a solo developer, I appreciate your support. If you find my work useful, a donation would be greatly valued.
 
 <div align="center">
      
