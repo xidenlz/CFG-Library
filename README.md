@@ -37,7 +37,7 @@ A simple settings library for use in different types of applications. Whether yo
 
 
 ### Overview
-The library has three major functions:
+The library has 4 major functions:
 | Function  | Description |
 | ------------- | ------------- |
 | Load_CFG | Loads the configuration file when the program runs  |
