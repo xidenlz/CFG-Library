@@ -160,7 +160,7 @@ if (j.at("CFG").contains("C_ImColor"))
 - Visual Studio
 1. Navigate to the build folder.
 2. Open the CFG_SYS.sln file.
-That’s it!
+
 
 ### Buggs
 If you encounter any bugs or issues, please create an issue [here](https://github.com/xidenlz/cfg_system/issues/new) and describe the problem.
