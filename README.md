@@ -96,7 +96,7 @@ The library has 4 major functions:
 }
 ```
 ### Examples 
-- If you are working with a console program or a GUI program, simply include the `cfg_system` in your initialization header, then create a new instance and call it with the following function as shown:
+- If you are working with a console program or a GUI program, simply include the `CFG.h` in your initialization header, then create a new instance and call it with the following function as shown:
 ```cpp
 // Instance
 MySettings Settings;
@@ -147,8 +147,8 @@ if (j.at("CFG").contains("C_ImColor"))
 
 
 ### Installation
-1. Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this header
-2. You can install the library via NuGet, download it from the releases page, or include it by adding this header
+1. Install [nlohmann json](https://github.com/nlohmann/json) via NuGet or simply include this [header](https://github.com/xidenlz/CFG-Library/blob/main/Build/src/nlohmann/Json.h)
+2. You can install the library via [NuGet](https://www.nuget.org/packages/xidenlz-CFG-Lib#readme-body-tab), download it from the releases [page](https://github.com/xidenlz/CFG-Library/releases/tag/CFG-Lib), or include it by adding this [header](https://github.com/xidenlz/CFG-Library/blob/main/Include/CFG.h)
 
 
 ### Build
