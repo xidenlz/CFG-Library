@@ -24,7 +24,7 @@
      - [License](https://github.com/xidenlz/CFG-Library/blob/main/LICENSE)
      - [Samples](https://github.com/xidenlz/CFG-Library/blob/main/Samples/Examples/CFG.h)
      - [Release](https://github.com/xidenlz/CFG-Library/releases)
-     - [NuGet]()
+     - [Build](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#build)
      - [Support My Work](https://github.com/xidenlz/CFG-Library/tree/main?tab=readme-ov-file#support-my-work)
   
 
