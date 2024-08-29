@@ -1,7 +1,7 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![NuGet - CFG-Library v1.00](https://img.shields.io/badge/NuGet-CFG--Library_v1.00-blue?logo=nuget)](https://)
+[![NuGet - CFG-Library v1.00](https://img.shields.io/badge/NuGet-CFG--Library_v1.00-blue?logo=nuget)](https://www.nuget.org/packages/xidenlz-CFG-Lib/)
 [![GitHub release](https://img.shields.io/github/release/xidenlz/CFG-Library?include_prereleases=&sort=semver&color=green)](https://github.com/xidenlz/CFG-Library/releases/)
 [![issues - CFG-Library](https://img.shields.io/github/issues/xidenlz/CFG-Library)](https://github.com/xidenlz/CFG-Library/issues)
 </div>
